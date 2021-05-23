@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TradeBea RestAssured Test" duration-ms="39654" started-at="2020-10-17T01:20:15 IST" finished-at="2020-10-17T01:20:54 IST">
+    <groups>
+    </groups>
+    <test name="Goibibo" duration-ms="39654" started-at="2020-10-17T01:20:15 IST" finished-at="2020-10-17T01:20:54 IST">
+      <class name="com.tb.qa.comman.getMenus">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tb.qa.comman.getMenus@553f17c]" name="setup" is-config="true" duration-ms="2" started-at="2020-10-17T01:20:37 IST" finished-at="2020-10-17T01:20:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getMenuse()[pri:0, instance:com.tb.qa.comman.getMenus@553f17c]" name="getMenuse" is-config="true" duration-ms="6105" started-at="2020-10-17T01:20:37 IST" finished-at="2020-10-17T01:20:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMenuse -->
+        <test-method status="PASS" signature="checkStatuscode()[pri:0, instance:com.tb.qa.comman.getMenus@553f17c]" name="checkStatuscode" duration-ms="3" started-at="2020-10-17T01:20:43 IST" finished-at="2020-10-17T01:20:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method status="PASS" signature="chesckResponseBody()[pri:0, instance:com.tb.qa.comman.getMenus@553f17c]" name="chesckResponseBody" duration-ms="4" started-at="2020-10-17T01:20:43 IST" finished-at="2020-10-17T01:20:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chesckResponseBody -->
+      </class> <!-- com.tb.qa.comman.getMenus -->
+      <class name="com.tb.qa.comman.getSliderImages">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tb.qa.comman.getSliderImages@271053e1]" name="setup" is-config="true" duration-ms="4" started-at="2020-10-17T01:20:49 IST" finished-at="2020-10-17T01:20:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getMenus()[pri:0, instance:com.tb.qa.comman.getSliderImages@271053e1]" name="getMenus" is-config="true" duration-ms="5250" started-at="2020-10-17T01:20:49 IST" finished-at="2020-10-17T01:20:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMenus -->
+        <test-method status="PASS" signature="checkStatuscode()[pri:0, instance:com.tb.qa.comman.getSliderImages@271053e1]" name="checkStatuscode" duration-ms="2" started-at="2020-10-17T01:20:54 IST" finished-at="2020-10-17T01:20:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method status="PASS" signature="chesckResponseBody()[pri:0, instance:com.tb.qa.comman.getSliderImages@271053e1]" name="chesckResponseBody" duration-ms="3" started-at="2020-10-17T01:20:54 IST" finished-at="2020-10-17T01:20:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chesckResponseBody -->
+      </class> <!-- com.tb.qa.comman.getSliderImages -->
+      <class name="com.tb.qa.comman.getCategoryId">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tb.qa.comman.getCategoryId@14bf9759]" name="setup" is-config="true" duration-ms="3" started-at="2020-10-17T01:20:24 IST" finished-at="2020-10-17T01:20:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getMenus()[pri:0, instance:com.tb.qa.comman.getCategoryId@14bf9759]" name="getMenus" is-config="true" duration-ms="6133" started-at="2020-10-17T01:20:24 IST" finished-at="2020-10-17T01:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMenus -->
+        <test-method status="PASS" signature="chesckResponseBody()[pri:1, instance:com.tb.qa.comman.getCategoryId@14bf9759]" name="chesckResponseBody" duration-ms="5" started-at="2020-10-17T01:20:31 IST" finished-at="2020-10-17T01:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chesckResponseBody -->
+        <test-method status="PASS" signature="checkStatuscode()[pri:2, instance:com.tb.qa.comman.getCategoryId@14bf9759]" name="checkStatuscode" duration-ms="4" started-at="2020-10-17T01:20:31 IST" finished-at="2020-10-17T01:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+      </class> <!-- com.tb.qa.comman.getCategoryId -->
+      <class name="com.tb.qa.comman.getMenusId">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tb.qa.comman.getMenusId@4f7d0008]" name="setup" is-config="true" duration-ms="2" started-at="2020-10-17T01:20:43 IST" finished-at="2020-10-17T01:20:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getMenus()[pri:0, instance:com.tb.qa.comman.getMenusId@4f7d0008]" name="getMenus" is-config="true" duration-ms="6211" started-at="2020-10-17T01:20:43 IST" finished-at="2020-10-17T01:20:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMenus -->
+        <test-method status="PASS" signature="checkStatuscode()[pri:0, instance:com.tb.qa.comman.getMenusId@4f7d0008]" name="checkStatuscode" duration-ms="3" started-at="2020-10-17T01:20:49 IST" finished-at="2020-10-17T01:20:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method status="PASS" signature="chesckResponseBody()[pri:0, instance:com.tb.qa.comman.getMenusId@4f7d0008]" name="chesckResponseBody" duration-ms="4" started-at="2020-10-17T01:20:49 IST" finished-at="2020-10-17T01:20:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chesckResponseBody -->
+      </class> <!-- com.tb.qa.comman.getMenusId -->
+      <class name="com.tb.qa.comman.getCategory">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tb.qa.comman.getCategory@3c0ecd4b]" name="setup" is-config="true" duration-ms="294" started-at="2020-10-17T01:20:15 IST" finished-at="2020-10-17T01:20:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getMenus()[pri:0, instance:com.tb.qa.comman.getCategory@3c0ecd4b]" name="getMenus" is-config="true" duration-ms="9405" started-at="2020-10-17T01:20:15 IST" finished-at="2020-10-17T01:20:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMenus -->
+        <test-method status="PASS" signature="checkStatuscode()[pri:0, instance:com.tb.qa.comman.getCategory@3c0ecd4b]" name="checkStatuscode" duration-ms="5" started-at="2020-10-17T01:20:24 IST" finished-at="2020-10-17T01:20:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method status="PASS" signature="chesckResponseBody()[pri:0, instance:com.tb.qa.comman.getCategory@3c0ecd4b]" name="chesckResponseBody" duration-ms="97" started-at="2020-10-17T01:20:24 IST" finished-at="2020-10-17T01:20:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chesckResponseBody -->
+      </class> <!-- com.tb.qa.comman.getCategory -->
+      <class name="com.tb.qa.comman.getListOfGroups">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tb.qa.comman.getListOfGroups@5f341870]" name="setup" is-config="true" duration-ms="5" started-at="2020-10-17T01:20:31 IST" finished-at="2020-10-17T01:20:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getMenus()[pri:0, instance:com.tb.qa.comman.getListOfGroups@5f341870]" name="getMenus" is-config="true" duration-ms="6034" started-at="2020-10-17T01:20:31 IST" finished-at="2020-10-17T01:20:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMenus -->
+        <test-method status="PASS" signature="checkStatuscode()[pri:0, instance:com.tb.qa.comman.getListOfGroups@5f341870]" name="checkStatuscode" duration-ms="2" started-at="2020-10-17T01:20:37 IST" finished-at="2020-10-17T01:20:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method status="PASS" signature="chesckResponseBody()[pri:0, instance:com.tb.qa.comman.getListOfGroups@5f341870]" name="chesckResponseBody" duration-ms="2" started-at="2020-10-17T01:20:37 IST" finished-at="2020-10-17T01:20:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chesckResponseBody -->
+      </class> <!-- com.tb.qa.comman.getListOfGroups -->
+    </test> <!-- Goibibo -->
+  </suite> <!-- TradeBea RestAssured Test -->
+</testng-results>

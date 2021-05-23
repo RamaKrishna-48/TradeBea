@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TradeBea RestAssured Test" verbose="1">
+
+	<listeners>
+		<listener
+			class-name="com.trdaebea.utilities.ExtentReport" />
+	</listeners>
+
+	<test name="common">
+		<classes>
+			<class name="com.tb.qa.comman.getCategory"></class>
+			<class name="com.tb.qa.comman.getCategoryId"></class>
+			<class name="com.tb.qa.comman.getListOfGroups"></class>
+			<class name="com.tb.qa.comman.getMenus"></class>
+			<class name="com.tb.qa.comman.getMenusId"></class>
+			<class name="com.tb.qa.comman.getSliderImages"></class>
+			<class name="com.tb.qa.comman.listOfGroups1"></class>
+			<class name="com.tb.qa.comman.passwordLogin"></class>
+			<class name="com.tb.qa.comman.socialLoginSeller"></class>
+			<class name="com.tb.qa.comman.socialLoginsUser"></class>
+		</classes>
+	</test>
+</suite>
+
